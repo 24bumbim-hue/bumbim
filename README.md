@@ -101,7 +101,7 @@ h2 {
 
 .surprise img {
     width: 200px;
-    height: 230px;
+    height: 250px;
     border-radius: 50%;
     object-fit: cover;
     border: 5px solid #ffd700;
